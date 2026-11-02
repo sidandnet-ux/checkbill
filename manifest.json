@@ -1,7 +1,10 @@
 
 {
+  "id": "/billing/",
   "name": "Quotation Manager",
   "short_name": "Quotation",
+  "start_url": "/checkbill/",
+  "scope": "/checkbill/",
   "description": "Item entry and billing application",
   "start_url": "./index.html",
   "display": "standalone",
