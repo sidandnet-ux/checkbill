@@ -1,0 +1,10 @@
+
+{
+  "name": "Quotation Manager",
+  "short_name": "Quotation",
+  "description": "Item entry and billing application",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#172554"
+}
