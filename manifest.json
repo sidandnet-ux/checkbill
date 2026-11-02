@@ -6,7 +6,6 @@
   "start_url": "/checkbill/",
   "scope": "/checkbill/",
   "description": "Item entry and billing application",
-  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f1f5f9",
   "theme_color": "#172554"
